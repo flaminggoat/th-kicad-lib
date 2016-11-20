@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC1G80
+D Single edge triggered D-type flip flop
+K flip, flop, logic
+F http://www.ti.com/lit/ds/symlink/sn74lvc1g80.pdf
+$ENDCMP
+#
+#End Doc Library
