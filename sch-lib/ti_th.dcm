@@ -6,4 +6,10 @@ K flip, flop, logic
 F http://www.ti.com/lit/ds/symlink/sn74lvc1g80.pdf
 $ENDCMP
 #
+$CMP TS5A3157
+D 10 Ohm SPDT Analog switch
+K switch, analog, spdt
+F http://www.ti.com/lit/ds/symlink/ts5a3157.pdf
+$ENDCMP
+#
 #End Doc Library
